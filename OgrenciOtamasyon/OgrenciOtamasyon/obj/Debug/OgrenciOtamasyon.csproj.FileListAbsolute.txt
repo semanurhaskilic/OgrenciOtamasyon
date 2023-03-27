@@ -1,0 +1,8 @@
+C:\Users\SemaNur\source\repos\OgrenciOtamasyon\OgrenciOtamasyon\bin\Debug\OgrenciOtamasyon.exe.config
+C:\Users\SemaNur\source\repos\OgrenciOtamasyon\OgrenciOtamasyon\bin\Debug\OgrenciOtamasyon.exe
+C:\Users\SemaNur\source\repos\OgrenciOtamasyon\OgrenciOtamasyon\bin\Debug\OgrenciOtamasyon.pdb
+C:\Users\SemaNur\source\repos\OgrenciOtamasyon\OgrenciOtamasyon\obj\Debug\OgrenciOtamasyon.csproj.AssemblyReference.cache
+C:\Users\SemaNur\source\repos\OgrenciOtamasyon\OgrenciOtamasyon\obj\Debug\OgrenciOtamasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\SemaNur\source\repos\OgrenciOtamasyon\OgrenciOtamasyon\obj\Debug\OgrenciOtamasyon.csproj.CoreCompileInputs.cache
+C:\Users\SemaNur\source\repos\OgrenciOtamasyon\OgrenciOtamasyon\obj\Debug\OgrenciOtamasyon.exe
+C:\Users\SemaNur\source\repos\OgrenciOtamasyon\OgrenciOtamasyon\obj\Debug\OgrenciOtamasyon.pdb
